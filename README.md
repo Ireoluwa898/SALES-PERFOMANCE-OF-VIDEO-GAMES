@@ -1,8 +1,10 @@
 # SALES-PERFOMANCE-OF-VIDEO-GAMES
 Dataset Link:
 https://www.kaggle.com/datasets/ibriiee/video-games-sales-dataset-2022-updated-extra-feat
+
 The task is to predict the sales performance of several video games worldwide; to classify and
 cluster the video games based on some categorical variables.
+
 TASKS:
 a. Which of the variables in the video game dataset or a combination of them best predicts
 “global sales” of video games and why? Provide quantitative justifications for your
